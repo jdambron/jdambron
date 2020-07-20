@@ -13,12 +13,14 @@
   <img align="left" alt="Julien's Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/keybase.svg" />
 </a>
 
+<br />
+
 ## I am Julien
 
 I am a Scrum Master from Bordeaux 🍷, France :fr:
 
-- Open source aficionado 
+- Open source aficionado
 - Agilist
-- Polyglot developer (with current interest in <a href="https://www.rust-lang.org/"><img alt="Rust" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/rust.svg"></a> <a href="https://elixir-lang.org/"><img alt="Elixir" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/elixir.svg"></a>)
+- Polyglot developer (with current interest in <a href="https://www.rust-lang.org/"><img alt="Rust" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/rust.svg"></a> and <a href="https://elixir-lang.org/"><img alt="Elixir" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/elixir.svg"></a>)
 
 [![Julien's github stats](https://github-readme-stats.vercel.app/api?username=jdambron&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
