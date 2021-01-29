@@ -23,4 +23,6 @@ I am a Scrum Master from Bordeaux 🍷, France :fr:
 - Agilist
 - Polyglot developer (with current interest in <a href="https://www.rust-lang.org/"><img alt="Rust" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/rust.svg"></a> and <a href="https://elixir-lang.org/"><img alt="Elixir" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/elixir.svg"></a>)
 
-[![Julien's github stats](https://github-readme-stats.vercel.app/api?username=jdambron&theme=gruvbox&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Julien's github stats](https://github-readme-stats.vercel.app/api?username=jdambron&theme=gruvbox&show_icons=true&count_private=true)
+
+![Julien's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jdambron&theme=gruvbox)
