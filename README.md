@@ -6,6 +6,9 @@
 <a href="https://twitter.com/JulienDambron">
   <img align="left" alt="Julien's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/twitter.svg" />
 </a>
+<a rel="me" href="https://fosstodon.org/@JulienDambron">
+  <img align="left" alt="Julien's Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mastodon.svg" />
+</a>
 <a href="https://t.me/JulienDambron">
   <img align="left" alt="Julien's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/telegram.svg" />
 </a>
