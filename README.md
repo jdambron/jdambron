@@ -20,11 +20,11 @@
 
 ## I am Julien
 
-I am a Scrum Master from Bordeaux 🍷, France :fr:
+I am an Engineering Leader from Bordeaux 🍷, France :fr:
 
 - Open source aficionado
 - Agilist
-- Polyglot developer (with current interest in <a href="https://www.rust-lang.org/"><img alt="Rust" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/rust.svg"></a> and <a href="https://elixir-lang.org/"><img alt="Elixir" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/elixir.svg"></a>)
+- Polyglot developer (with current interest in <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /></a>)
 
 ![Julien's github stats](https://gh-readme-stats.vercel.app/api?username=jdambron&theme=default&show_icons=true&count_private=true)
 
