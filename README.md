@@ -1,19 +1,19 @@
 # Hello 👋🏻
 
 <a href="https://www.linkedin.com/in/jdambron">
-  <img align="left" alt="Julien's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />
+  <img alt="Julien's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/JulienDambron">
-  <img align="left" alt="Julien's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/twitter.svg" />
+  <img alt="Julien's Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
 </a>
 <a rel="me" href="https://fosstodon.org/@JulienDambron">
-  <img align="left" alt="Julien's Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mastodon.svg" />
+  <img alt="Julien's Mastodon" src="https://img.shields.io/badge/-Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" />
 </a>
 <a href="https://t.me/JulienDambron">
-  <img align="left" alt="Julien's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/telegram.svg" />
+  <img alt="Julien's Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 </a>
 <a href="https://keybase.io/jdambron">
-  <img align="left" alt="Julien's Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/keybase.svg" />
+  <img alt="Julien's Keybase" src="https://img.shields.io/badge/-Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white" />
 </a>
 
 <br />
@@ -26,6 +26,6 @@ I am a Scrum Master from Bordeaux 🍷, France :fr:
 - Agilist
 - Polyglot developer (with current interest in <a href="https://www.rust-lang.org/"><img alt="Rust" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/rust.svg"></a> and <a href="https://elixir-lang.org/"><img alt="Elixir" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/elixir.svg"></a>)
 
-![Julien's github stats](https://github-readme-stats.vercel.app/api?username=jdambron&theme=gruvbox&show_icons=true&count_private=true)
+![Julien's github stats](https://gh-readme-stats.vercel.app/api?username=jdambron&theme=default&show_icons=true&count_private=true)
 
-![Julien's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jdambron&theme=gruvbox)
+![Julien's languages stats](https://gh-readme-stats.vercel.app/api/top-langs/?username=jdambron&theme=default)
