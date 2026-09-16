@@ -3,17 +3,14 @@
 <a href="https://www.linkedin.com/in/jdambron">
   <img alt="Julien's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/JulienDambron">
-  <img alt="Julien's Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+<a href="https://x.com/JulienDambron">
+  <img alt="Julien's X" src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" />
 </a>
 <a rel="me" href="https://fosstodon.org/@JulienDambron">
   <img alt="Julien's Mastodon" src="https://img.shields.io/badge/-Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" />
 </a>
 <a href="https://t.me/JulienDambron">
   <img alt="Julien's Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</a>
-<a href="https://keybase.io/jdambron">
-  <img alt="Julien's Keybase" src="https://img.shields.io/badge/-Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white" />
 </a>
 
 <br />
