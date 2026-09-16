@@ -12,6 +12,9 @@
 <a href="https://t.me/JulienDambron">
   <img alt="Julien's Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 </a>
+<a href="https://gravatar.com/jdambron">
+  <img alt="Julien's Gravatar" src="https://img.shields.io/badge/-Gravatar-1E8CBE?style=flat-square&logo=gravatar&logoColor=white" />
+</a>
 
 <br />
 
